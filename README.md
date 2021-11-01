@@ -1,0 +1,2 @@
+# Ecommerce-basket-purchase-inventory-stock-Analysis
+We have a huge amount of data set of customer can buy product form ecommerce websites so have to analysis this data and get some useful information means what the customer fulfilments their needs , or as catch the customer interaction, what they buy next product (oil ,breed , butter , jam, other )this is the problem statement we can solve on this project.
