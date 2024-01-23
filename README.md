@@ -1,5 +1,8 @@
 # Google Data Analytics: Capstone
 ## [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics)
+## [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics)
+
+![cert](https://imgur.com/zOrx7kt.jpg)
 ## Cyclistic Bike Share User Analysis
 
 ![Cyclistic](https://github.com/gregschlitt/Google-DA-Capstone---Cyclistic-Bike-Share/blob/main/Cyclistic%20Logo.png)
